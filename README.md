@@ -21,16 +21,6 @@ The primary objective of this project is to build, train, test, and deploy an Ar
 ### Output
 - **Sentiment**: Binary sentiment classification (0 for negative sentiment, 1 for positive sentiment).
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/snehapadgaonkar/Amazon-Review-Analysis.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ### Usage
 1. **Data Preprocessing**:
    - Run the preprocessing script to clean and prepare the data.
