@@ -1,4 +1,7 @@
 # Sentiment Analysis on Amazon Echo Customer Reviews
+<p align="center">
+  <img src="pics/echo.png" alt="Amazon Echo" />
+</p>
 
 ## Goal
 The primary objective of this project is to build, train, test, and deploy an Artificial Intelligence (AI) model capable of predicting sentiment from real Amazon Echo customer reviews.
